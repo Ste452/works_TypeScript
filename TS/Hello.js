@@ -1,2 +1,2 @@
-var a = 'Hello World';
+var a = "Hello World of TypeScript";
 console.log(a);
